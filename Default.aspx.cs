@@ -30,6 +30,7 @@ namespace YourProject
             }
         }
 
+
         private void LoadSanPham()
         {
             string idDM = Request.QueryString["idDM"];
